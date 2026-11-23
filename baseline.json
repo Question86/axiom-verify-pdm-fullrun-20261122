@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/Question86/axiom-verify-controlled-fullrun-20260616T201455",
+  "ref": "3a17ec5ec85487bf6bd79291b58fd3c8cb5dab90",
+  "bundle": "controlled_fullrun_20260616T201455",
+  "input_kind": "controlled synthetic CSV",
+  "sample_count": 65536,
+  "run_id": "a21e79d088253d297fd60438b39da5ed6329100913749c53bd9f839ccdc334c3",
+  "source_sha256": "0df38671db00c40e1b230f03a49a0b4fadd391d5dd6b06d45a7a2b6dca946d46",
+  "runtime_status": "COMPLETED",
+  "verdict": "REGION_DETECTED",
+  "reported_p": "1/129",
+  "reported_p_scope": "June calibrated detector p-value",
+  "registered_reference_interval": [24576, 28672],
+  "chain_stages": 59,
+  "final_chain_hash": "99eebe694b345dbbe65aa7e14a583dfb7994c729dfe870d815cfed6021a8e115",
+  "triple_parity": "PASS"
+}

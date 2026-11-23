@@ -1,0 +1,36 @@
+{
+  "browser_job_id": "J20261122_cc2b8450b9534dd0",
+  "execution": {
+    "duration_ms": 81887,
+    "end_utc": "2026-11-22T20:53:06.747+00:00",
+    "exit_code": 0,
+    "original_invocation_sha256": "01de39fb1aa8634bd84ca73f359f31120851ae6073eec5f54355463e037b0d79",
+    "original_stdout_sha256": "175ce02d02f9f1e7bb768f29be6aa141c9122eab76a26912026bc26f7207267b",
+    "runner_sha256": "f749005d52685ecb6bbc1ead5472474e2bc327a2b44294992c7fa30b6d4a8cfb",
+    "start_utc": "2026-11-22T20:51:44.860+00:00"
+  },
+  "native_artifact_package": "c83b9096521b1560",
+  "native_job_id": "14547cbab65c1eb1358daa0c445a736feb5d749d66cf49f2abb40e8309af6c94",
+  "native_run_id": "99a049cc3876886a6382e5f050d6369afed263cc69478fd9e7bd29dd080cc782",
+  "omitted_signed_payloads": [
+    "api/canonical_jobs_api_contract_report.json"
+  ],
+  "schema_version": "axiom_public_run_projection_v1",
+  "source": {
+    "benchmark_record": "CWRU 105",
+    "bytes": 248084,
+    "channels": [
+      "DE",
+      "FE"
+    ],
+    "filename": "cwru_105_DE_FE_samples4096_8192.csv",
+    "nominal_sample_rate_hz": 12000,
+    "sample_count": 4096,
+    "server_upload_matches_native_input": true,
+    "sha256": "c1194ce3b5013fc9f17103ee3d4a8799b71db70cb8609ce51430a4ebbdd85e47",
+    "source_sample_range": [
+      4096,
+      8192
+    ]
+  }
+}

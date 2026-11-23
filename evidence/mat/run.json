@@ -1,0 +1,37 @@
+{
+  "browser_job_id": "J20261122_cab56375b92a4ffa",
+  "execution": {
+    "duration_ms": 477038,
+    "end_utc": "2026-11-22T21:02:35.617+00:00",
+    "exit_code": 0,
+    "original_invocation_sha256": "c253d2d6db324e5934011198b7e8a7265c8aa9b4955be73882df9f3ac40f2b34",
+    "original_stdout_sha256": "ec92bba27311f789c27bb0253c0d0381babeeca1cd1d6f2a525d9d9eaab75562",
+    "runner_sha256": "f749005d52685ecb6bbc1ead5472474e2bc327a2b44294992c7fa30b6d4a8cfb",
+    "start_utc": "2026-11-22T20:54:38.579+00:00"
+  },
+  "native_artifact_package": "871a98b5978470be",
+  "native_job_id": "c2940f8ada358e6c88d03aef7d12fbe48d713144589adbd750bd96abeaed652e",
+  "native_run_id": "65bc39dfb8ef8a3ab4a605610425d3a0b213003b4b27c6bf018ecedb9d79040c",
+  "omitted_signed_payloads": [
+    "api/canonical_jobs_api_contract_report.json"
+  ],
+  "schema_version": "axiom_public_run_projection_v1",
+  "source": {
+    "benchmark_record": "CWRU 105",
+    "bytes": 2910768,
+    "channels": [
+      "BA",
+      "DE",
+      "FE"
+    ],
+    "filename": "matlab_cwru_ir007_0_105_positive.mat",
+    "nominal_sample_rate_hz": 12000,
+    "sample_count": 121265,
+    "server_upload_matches_native_input": true,
+    "sha256": "f80b0ea04fd06b372a0eaec7c056543ea37e4bb4727a5b173d2a5bacd2aa9cab",
+    "source_sample_range": [
+      0,
+      121265
+    ]
+  }
+}
